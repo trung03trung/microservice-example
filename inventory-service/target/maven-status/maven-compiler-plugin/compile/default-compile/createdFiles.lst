@@ -1,0 +1,14 @@
+com\example\productservice\controller\ProductController.class
+com\example\productservice\utils\ProductException.class
+com\example\productservice\utils\BaseMessage.class
+com\example\productservice\dto\ProductRequest.class
+com\example\productservice\utils\MapperUtil.class
+com\example\productservice\utils\ProductException$2.class
+com\example\productservice\utils\ErrorMessage.class
+com\example\productservice\repository\ProductRepository.class
+com\example\productservice\utils\ApiResponse.class
+com\example\productservice\service\ProductService.class
+com\example\productservice\utils\ProductException$1.class
+com\example\productservice\ProductServiceApplication.class
+com\example\productservice\domain\Product.class
+com\example\productservice\dto\ProductDTO.class

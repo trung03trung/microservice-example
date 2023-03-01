@@ -1,0 +1,12 @@
+com\example\inventoryservice\utils\OrderRuntimeException.class
+com\example\inventoryservice\utils\MapperUtil.class
+com\example\inventoryservice\repository\InventoryRepository.class
+com\example\inventoryservice\utils\ApiResponse.class
+com\example\inventoryservice\service\InventoryService.class
+com\example\inventoryservice\InventoryServiceApplication.class
+com\example\inventoryservice\domain\Inventory.class
+com\example\inventoryservice\utils\OrderRuntimeException$1.class
+com\example\inventoryservice\utils\ErrorMessage.class
+com\example\inventoryservice\utils\OrderRuntimeException$2.class
+com\example\inventoryservice\utils\BaseMessage.class
+com\example\inventoryservice\controller\InventoryController.class
